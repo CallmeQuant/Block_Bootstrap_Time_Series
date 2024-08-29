@@ -16,7 +16,7 @@ Additionally, the project involves using bootstrap techniques to calculate forec
 The project is organized into the following directories and files:
 
 ### `data_report_bootstrap/`
-- **sales_train_evaluation.csv**: This file contains the real-world time series data used for analysis and forecasting.
+- **sales_train_evaluation.csv**: This file contains the real-world time series data used for analysis and forecasting. Since the data is big, I place it in drive. You can download from [here](https://drive.google.com/drive/folders/1VIpPrIZaPr854wJ2kuRPcpB72nUR8lKJ?usp=drive_link) and put in in this folder.
 
 ### `exp_func/`
 - **compare_calibrate_parameter.R**: This script compares and calibrates different parameters for the bootstrap methods and the traditional time series models.
